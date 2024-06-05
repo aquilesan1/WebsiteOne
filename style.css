@@ -1,0 +1,78 @@
+body {
+	
+	background-color: gray;
+}
+
+h1 {
+	
+	color: white;
+}
+
+h2 {
+	
+	color: white;
+}
+
+div {
+	
+	width: 300px;
+	height: 3px;
+	background-color: black;
+	border-radius: 3px;
+}
+
+p {
+	
+	color: white;
+}
+
+li {
+	
+	color:white;
+}
+
+img {
+	
+	border: 5px solid black;
+	border-radius: 3px;
+}
+
+table {
+	
+	border: solid 2px black;
+}
+
+td {
+	
+	color: white;
+}
+
+.img1 {
+	
+	height: 500px;
+	width: 450px
+}
+
+.img2 {
+	
+	height: 500px;
+	width: 500px;
+}
+
+.img3 {
+	
+	height: 500px;
+	width: 400px;
+}
+
+.img4 {
+	
+	height: 500px;
+	width: 450px;
+}
+
+.img5 {
+	
+	height: 500px;
+	width: 500px;
+}
